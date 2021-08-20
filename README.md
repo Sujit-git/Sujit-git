@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Sujit Khopade.
 
 <!--
 **Sujit-git/Sujit-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 🎓 About Me
+I'm Sujit Khopade Pursuing Bachelors Degree in Information Technology 💻 Full Stack Web Developer🚀, In Future I am interested in App or Android Development.
+
+### 📲 Get In Touch
+[twitter](https://twitter.com/SujitKhopade_) [Linkedin](linkedin.com/in/sujit-khopade-015640191) [portfolio](https://sujitkhopadeportfolio.netlify.app/)
